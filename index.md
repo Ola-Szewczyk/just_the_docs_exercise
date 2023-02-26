@@ -6,7 +6,7 @@ nav_order: 1
 
 # STE homework
 
-As a technical writer, you will have to deal with an unresponsive SME. Here are some tips and tricks for meeting deadlines in unfavorable conditions.
+As a technical writer, you will have to deal with unresponsive SMEs. Here are some tips and tricks for meeting deadlines in unfavorable conditions.
 
 **Be prepared**
 
