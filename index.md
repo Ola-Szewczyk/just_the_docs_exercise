@@ -22,9 +22,6 @@ Having your SME find the time for an interview may be challenging. Fortunately, 
 
 Use your SME’s team to gather clues on how to approach them and have them find the time for you in the future.
 
-**Straight to the point**
-
-Score some points by asking straightforward questions. Have you prepared the list mentioned above? It should be enough to keep you on the track. Stick to it and try to avoid digressions. Have your topics prioritized and make sure you get the answers in the shortest possible amount of time.
 
 **Change your methods**
 
