@@ -21,10 +21,8 @@ _Do you know what you need from your SME? It’s always good to be prepared. You
 __Having your SME find the time for an interview may be challenging. Fortunately, you can minimize the time you need by interviewing the team first. Talk to people who work closely with your SME - they may provide you with most, or even all, the information you need.__
 
 
+**Use your SME’s team to gather clues on how to approach them and have them find the time for you in the future.**
 
-**Straight to the point**
-
-Score some points by asking straightforward questions. Have you prepared the list mentioned above? It should be enough to keep you on the track. Stick to it and try to avoid digressions. Have your topics prioritized and make sure you get the answers in the shortest possible amount of time.
 
 **Change your methods**
 
